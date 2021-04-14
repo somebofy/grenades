@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grenades", "grenades\grenades.csproj", "{ED69FA7F-B80B-4252-AB7E-92BE6552DF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED69FA7F-B80B-4252-AB7E-92BE6552DF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED69FA7F-B80B-4252-AB7E-92BE6552DF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED69FA7F-B80B-4252-AB7E-92BE6552DF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED69FA7F-B80B-4252-AB7E-92BE6552DF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7996652F-2E21-4892-B929-8F1A4400B247}
+	EndGlobalSection
+EndGlobal
