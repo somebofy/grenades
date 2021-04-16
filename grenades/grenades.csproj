@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Reference Include="Qurre">
-      <HintPath>..\..\..\..\Desktop\Qurre\Qurre.dll</HintPath>
+      <HintPath>..\..\Qurre\Qurre.dll</HintPath>
     </Reference>
   </ItemGroup>
 
